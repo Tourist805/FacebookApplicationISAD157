@@ -1,0 +1,1 @@
+SELECT * FROM isad157_zdauletov.facebook_users;
